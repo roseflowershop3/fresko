@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 pb-10 border-b border-white/10">
           <div>
             <div className="text-xl font-bold text-brand-orange mb-3">
-              [PLATFORM NAME]
+              Sitorial
             </div>
             <p className="text-sm text-white/60 leading-relaxed max-w-xs">
               Research-driven websites for real businesses. We study your market before writing a single line of code.
@@ -64,7 +64,7 @@ export default function Footer() {
         </div>
 
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-white/40">
-          <span>© 2026 [PLATFORM NAME]. Built with care for businesses everywhere.</span>
+          <span>© 2026 Sitorial. Built with care for businesses everywhere.</span>
           <div className="flex gap-4">
             <Link href="/templates" className="hover:text-white/70 transition-colors">Templates</Link>
             <Link href="/contact" className="hover:text-white/70 transition-colors">Contact</Link>

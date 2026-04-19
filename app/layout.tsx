@@ -11,7 +11,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: '[PLATFORM NAME] — Research-Driven Websites for Real Businesses',
+  title: 'Sitorial — Research-Driven Websites for Real Businesses',
   description:
     'We research your market, study your competitors, and build a website that actually works for your business.',
 };

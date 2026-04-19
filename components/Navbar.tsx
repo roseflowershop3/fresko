@@ -32,7 +32,7 @@ export default function Navbar() {
             href="/"
             className="text-xl font-bold text-brand-orange tracking-tight hover:text-brand-orange-light transition-colors"
           >
-            [PLATFORM NAME]
+            Sitorial
           </Link>
 
           <nav className="hidden md:flex items-center gap-8">
